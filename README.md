@@ -30,7 +30,7 @@ An overview of the architecture of VAMI. The F Net is for learning single-view f
 PDF Link: http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Viewpoint-Aware_Attentive_Multi-View_CVPR_2018_paper.pdf
 
 # [Useful Files]
-
+We provided some useful files as follows:
 
 
 # [Citation]
@@ -48,7 +48,7 @@ year = {2018}
 
 # [Contact Information]
 
-Since the authors have already moved to new institutes, this is the new available project page for the work and the work is still under progress in other related projects.
+Since the authors have already moved to the new institute, this is the new available project page for the work and the work is still under progress in other related projects.
 
 If you have any other problem, please feel free to contact [yizhou.szcn@gmail.com]
 
