@@ -21,4 +21,6 @@ on two public datasets: VeRi and VehicleID.
 
 [Method Overview]
 
+![Image text](https://raw.github.com/csyizhou/Vehicle-Re-ID/edit/master/img/VAMI.png)
 
+An overview of the architecture of VAMI. The F Net is for learning single-view features containing vehicles’ intrinsic information such as model, color and type. Moreover, viewpoint features can be also learned so that the central point feature of each viewpoint cluster over the whole training set can be obtained and used for attention learning. The attention model aims to output viewpoint-aware attention maps from the input view image targeting at different viewpoints. To infer multi-view features from the obtained attentive single-view features, we design a conditional generative network trained by an adversarial architecture. The network of the real multi-view data branch is only available in the training phase. Auxiliary vehicle classifiers are configured at the end of D to help match the inferred multi-view features with correct input vehicles’ identities. Finally, given positive and negative vehicle pairs, a contrastive loss is designed to optimize the network for distance metric learning. (Best viewed in color.)
