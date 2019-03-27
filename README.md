@@ -32,6 +32,11 @@ PDF Link: http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Viewpoint-A
 # [Useful Files]
 We provided some useful files as follows:
 
+Labels for the VeRi-776 dataset: veri_train_id_tp_cl_vp.mat ; query_vp.mat ; test_vp.mat.
+
+Labels for the VehicleID dataset: vehicle_train_label.mat ; vehicle_test800_label.mat ; vehicle_test1600_label.mat ; vehicle_test2400_label.mat.
+
+CMC curve results: cmc_VAMI_VeRi.mat ; cmc_VAMI_VehicleID_800.mat; cmc_VAMI_VehicleID_1600.mat; cmc_VAMI_VehicleID_2400.mat.
 
 # [Citation]
 
